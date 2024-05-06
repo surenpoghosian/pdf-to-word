@@ -1,0 +1,28 @@
+{
+  "name": "pdf-to-word",
+  "version": "1.0.0",
+  "description": "Convert pdf to word file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surenpoghosian/pdf-to-word.git"
+  },
+  "keywords": [
+    "pdf",
+    ".pdf",
+    "word",
+    ".docx",
+    "docx",
+    "converter",
+    "convert"
+  ],
+  "author": "surenpoghosian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surenpoghosian/pdf-to-word/issues"
+  },
+  "homepage": "https://github.com/surenpoghosian/pdf-to-word#readme"
+}
